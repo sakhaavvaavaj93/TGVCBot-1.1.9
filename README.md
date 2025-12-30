@@ -11,6 +11,10 @@
 
 ![LOGO](https://telegra.ph/file/e9dd76aadf0b500e02738.jpg)
 
+<p align="center">
+<a href="https://render.com/deploy?repo=https://github.com/sakhaavvaavaj93/TGVCBot-1.1.9"><img src="https://img.shields.io/badge/-Deploy%20to%20Render-blackorange?style=for-the-badge&logo=render"></a>
+</p>
+
 ### Docs
 
 [tgvcbot.vercel.app](https://tgvcbot.vercel.app)
@@ -31,3 +35,4 @@
 - UPI : `aparyali@fbl`
 - [BuyMeACoffee](https://www.buymeacoffee.com/arnabxd)
 - Crypto (USDT) : `0xe4236562c34760c0dd063826f2f9d73802df6ed2` (BEP20)
+
